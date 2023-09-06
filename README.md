@@ -14,5 +14,9 @@
 
 ### :woman_technologist: About Me :
 I am a final year Computer Science undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
+- :telescope: I’m working on cross platform app development and machine learning projects
+- :seedling: Exploring Backend tech stacks and Artifical Intelligence
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](nishita0502@gmail.com)
 
   

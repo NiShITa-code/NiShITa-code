@@ -40,5 +40,5 @@ I am a final year Computer Science undergrad <img src="https://media.giphy.com/m
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=NiShITa-code
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NiShITa-code&theme=dark&background=000000)](https://git.io/streak-stats)
 

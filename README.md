@@ -11,6 +11,7 @@
 </h1>
 </div>
 ---
+
 ### :woman_technologist: About Me :
 I am a final year Computer Science undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
 - :telescope: I’m working on cross platform app development and machine learning projects

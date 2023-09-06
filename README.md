@@ -5,7 +5,7 @@
   <a href="https://leetcode.com/codenishita/">
     <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?usernameNiShITa-code=&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=NiShITa-code=&style=flat-square&color=blue" alt=""/>
 </div>
 
   

@@ -1,10 +1,10 @@
-### Hi there 👋
-- I am a final year Btech in computer Science student
-- I’m currently working on Cross Platform Mobile Development and Machine Learning
-- I’m looking to collaborate on C++, Flutter and Python projects
-- I’m looking for any opportunity to learn and grow
-- Certifications: https://coursera.org/share/e520cf7e1a44c1cc73e48b1fd949bb61 Introduction to machine learning by Duke university
-- How to reach me: nishita0502@gmail.com
-  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nishita-jain-0502/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/codenishita/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</div>
 
   

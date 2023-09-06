@@ -17,7 +17,7 @@ I am a final year Computer Science undergrad <img src="https://media.giphy.com/m
 - 🧰: I'm a product enthusiast
 - :telescope: I’m working on cross platform app development and machine learning projects
 - :seedling: Exploring Backend tech stacks and Artifical Intelligence
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read articles.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Nishita-Red?style=flat&logo=Gmail&logoColor=white)](nishita0502@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :

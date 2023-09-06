@@ -13,6 +13,6 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Computer Science undergrad currently <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
+I am a final year Computer Science undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
 
   

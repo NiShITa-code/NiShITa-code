@@ -13,7 +13,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a final year Computer Science undergrad from India
+I am a MSc(Advanced Computing) student at Imperial College Lonndom
 - 🧰: I'm a product enthusiast
 - :telescope: I’m working on cross platform app development and machine learning projects
 - :seedling: Exploring Backend tech stacks and Artifical Intelligence

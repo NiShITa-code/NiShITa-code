@@ -5,8 +5,7 @@
 ### Software Engineer building reliable systems, AI safety tools, and applied AI products
 
 I work across **backend engineering, payments infrastructure, real-time platforms, and AI safety** — from production APIs and transaction workflows to LLM red-teaming, model evaluation, and ML systems research.
-
-Currently completing my **MSc in Advanced Computing at Imperial College London**.
+Recently completed **MSc in Advanced Computing at Imperial College London**.
 
 <br/>
 

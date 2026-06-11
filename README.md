@@ -1,83 +1,16 @@
 <div align="center">
 
-# Hi, I'm Nishita Jain 👋
+# Nishita Jain
 
-### Software Engineer building reliable systems, AI safety tools, and applied AI products
+### AI Engineer · MSc Advanced Computing, Imperial College London (Distinction)
 
-I work across **backend engineering, payments infrastructure, real-time platforms, and AI safety** — from production APIs and transaction workflows to LLM red-teaming, model evaluation, and ML systems research.
-Recently completed **MSc in Advanced Computing at Imperial College London**.
-
-<br/>
+I build production AI systems and publish research on LLM safety.  
+My work sits at the intersection of **applied AI engineering** and **AI safety research** —  
+shipping things that work in the real world, and studying how LLMs can fail.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishita%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishita-jain-0502)
-[![GitHub](https://img.shields.io/badge/GitHub-NiShITa--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiShITa-code)
 [![Email](https://img.shields.io/badge/Email-nishita0502%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishita0502@gmail.com)
-
-</div>
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-![Nishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiShITa-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiShITa-code&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## What I Work On
-
-### Backend & Systems Engineering
-
-- Production-grade REST APIs, microservices, WebSockets, and cloud-native services
-- Payment workflows, refund logic, notification systems, and transaction-state handling
-- Performance-critical systems using C++, Python, TypeScript, and SQL
-- Testing, documentation, code review, debugging, and performance optimization
-
-### AI Safety & Applied AI
-
-- LLM red-teaming, model evaluation, reinforcement learning, and automated testing
-- Research on adaptive AI safety methods using bandit-guided LoRA experts
-- ML systems using PyTorch, TensorFlow, scikit-learn, and HuggingFace Transformers
-
-### Product Engineering
-
-- Full-stack applications with real users
-- Real-time dashboards, healthcare workflows, financial analytics, and developer-facing tools
-- Clean, maintainable code with production-focused engineering practices
-
----
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.07239-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.07239)
 
 </div>
 
@@ -85,33 +18,78 @@ Recently completed **MSc in Advanced Computing at Imperial College London**.
 
 ## Research
 
-**Red-Bandit: Test-Time Adaptation for LLM Red-Teaming via Bandit-Guided LoRA Experts**
+**[Red-Bandit: Test-Time Adaptation for LLM Red-Teaming via Bandit-Guided LoRA Experts](https://arxiv.org/abs/2510.07239)**  
+*Christos Ziakas, Nicholas Loo, Nishita Jain, Alessandra Russo*  
+📄 **Accepted at ACL 2026** · arXiv:2510.07239
 
-Co-authored research on automated AI safety testing using reinforcement learning and adaptive expert selection for LLM red-teaming.
+Reframes adversarial prompt generation as a resource allocation problem. A multi-armed bandit policy (Thompson Sampling / UCB) dynamically selects the highest-reward LoRA adapter at test time, outperforming greedy and random baselines across multiple safety-aligned LLMs.
 
-**Areas:** AI Safety, LLM Evaluation, Red-Teaming, Reinforcement Learning, LoRA
+**[QD-Bandit: Quality-Diversity Selection as Multi-Armed Bandit Problem for Adversarial Prompt Generation](https://github.com/NiShITa-code/Research_QDBandit)**  
+*Imperial College London, 2025*
 
----
-
-## Currently Interested In
-
-- Backend and distributed systems
-- AI safety, LLM evaluation, and red-teaming
-- ML systems and applied AI products
-- Real-time platforms and developer tools
+Models descriptor selection in quality-diversity red-teaming as a bandit problem. Achieves 10× increase in learning signals per iteration vs existing baselines. Evaluated on HarmBench and AdversarialQA against Qwen2.5-7B and Llama-2-7B.
 
 ---
 
-## Connect
+## Featured Projects
 
-- **LinkedIn:** [linkedin.com/in/nishita-jain-0502](https://linkedin.com/in/nishita-jain-0502)
-- **GitHub:** [github.com/NiShITa-code](https://github.com/NiShITa-code)
-- **Email:** [nishita0502@gmail.com](mailto:nishita0502@gmail.com)
+**[Aegis](https://github.com/NiShITa-code/aegis)** — Autonomous AI Code Security Agent  
+Four-phase agentic loop: LLM identifies vulnerabilities → sandboxed Docker verifies the exploit → LLM patches the code → re-execution confirms the fix. Multi-model support via LiteLLM (GPT-4, Claude, Gemini). No human in the loop.  
+`Python` `FastAPI` `Docker` `LiteLLM` `GitHub Actions`
+
+---
+
+**[AetherAlpha-Pro](https://github.com/NiShITa-code/AetherAlphaPro)** — Production Financial AI Platform  
+Three AI engines in one platform: RAG over SEC 10-K/10-Q filings (Llama 3 + Qdrant), real-time FinBERT sentiment analysis, and portfolio backtesting. Full-stack with hexagonal architecture, WebSocket streaming, and Docker Compose deployment.  
+`FastAPI` `Next.js` `PostgreSQL` `Redis` `Qdrant` `FinBERT` `Llama 3`
+
+---
+
+**[ExperimentLab](https://github.com/NiShITa-code/experimentlab)** — Open-Source A/B Testing & Causal Inference Platform  
+CUPED variance reduction, O'Brien-Fleming sequential testing, Difference-in-Differences, synthetic control, Bayesian A/B testing, and differential privacy auditing — in one platform. 147 passing tests.  
+`Python` `scipy` `Streamlit`
+
+---
+
+**[CliniqBot](https://github.com/NiShITa-code/CliniqBot)** — Live Healthcare Appointment Platform  
+Production system serving real doctors and patients. Appointment booking via WhatsApp, end-to-end Razorpay payment processing with automated refunds, and a React.js scheduling dashboard. Real users, real money.  
+`TypeScript` `Node.js` `React.js` `PostgreSQL` `Razorpay` `AWS Lambda`
+
+---
+
+**[Algorithmic Trading Backtester](https://github.com/NiShITa-code/AlgorithmicTradingBacktester)** — High-Performance C++ Engine  
+Processes millions of market events with microsecond-level precision. Event-driven architecture with ML-driven signals and a full-stack visualization dashboard.  
+`C++` `Python` `Flask` `React.js`
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
 
-Building reliable software systems, safer AI tools, and products that solve real problems.
+*MSc Advanced Computing — Imperial College London, Distinction*  
+*BTech Computer Science — BIT Mesra, First-Class Distinction, CGPA 8.79/10*
 
 </div>

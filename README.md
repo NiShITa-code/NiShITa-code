@@ -51,18 +51,6 @@ CUPED variance reduction, O'Brien-Fleming sequential testing, Difference-in-Diff
 
 ---
 
-**[CliniqBot](https://github.com/NiShITa-code/CliniqBot)** — Live Healthcare Appointment Platform  
-Production system serving real doctors and patients. Appointment booking via WhatsApp, end-to-end Razorpay payment processing with automated refunds, and a React.js scheduling dashboard. Real users, real money.  
-`TypeScript` `Node.js` `React.js` `PostgreSQL` `Razorpay` `AWS Lambda`
-
----
-
-**[Algorithmic Trading Backtester](https://github.com/NiShITa-code/AlgorithmicTradingBacktester)** — High-Performance C++ Engine  
-Processes millions of market events with microsecond-level precision. Event-driven architecture with ML-driven signals and a full-stack visualization dashboard.  
-`C++` `Python` `Flask` `React.js`
-
----
-
 ## Tech Stack
 
 <div align="center">

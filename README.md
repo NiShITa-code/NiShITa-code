@@ -39,12 +39,6 @@ Four-phase agentic loop: LLM identifies vulnerabilities → sandboxed Docker ver
 
 ---
 
-**[AetherAlpha-Pro](https://github.com/NiShITa-code/AetherAlphaPro)** — Production Financial AI Platform  
-Three AI engines in one platform: RAG over SEC 10-K/10-Q filings (Llama 3 + Qdrant), real-time FinBERT sentiment analysis, and portfolio backtesting. Full-stack with hexagonal architecture, WebSocket streaming, and Docker Compose deployment.  
-`FastAPI` `Next.js` `PostgreSQL` `Redis` `Qdrant` `FinBERT` `Llama 3`
-
----
-
 **[ExperimentLab](https://github.com/NiShITa-code/experimentlab)** — Open-Source A/B Testing & Causal Inference Platform  
 CUPED variance reduction, O'Brien-Fleming sequential testing, Difference-in-Differences, synthetic control, Bayesian A/B testing, and differential privacy auditing — in one platform. 147 passing tests.  
 `Python` `scipy` `Streamlit`
